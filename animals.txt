@@ -2,3 +2,4 @@ Cats
 Cow
 Gorilla
 Dog
+Zebra
